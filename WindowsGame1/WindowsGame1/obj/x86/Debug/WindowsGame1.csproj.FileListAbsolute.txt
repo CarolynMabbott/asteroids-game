@@ -1,0 +1,33 @@
+D:\jim\Teaching Materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\jim\Teaching Materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\jim\Teaching Materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jim\Teaching Materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\jim\Teaching Materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\jim\Teaching Materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rocket.xnb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rocket2.xnb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rocket.xnb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rocket2.xnb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rocket.xnb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rocket2.xnb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rocket.xnb
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Rocket2.xnb
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\rock.xnb

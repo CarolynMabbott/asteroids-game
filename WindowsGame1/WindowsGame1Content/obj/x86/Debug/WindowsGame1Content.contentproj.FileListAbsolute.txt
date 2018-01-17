@@ -1,0 +1,4 @@
+D:\jim\Teaching Materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\XNA Trials\WindowsGame1 - Tutorial\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jim\teaching materials\CS2S505 Team Project Game Dev\Tutorials\XNAMotionTrial2\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\caz\Uni stuffs\team game developemtn\XNAMotionTrial2\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
